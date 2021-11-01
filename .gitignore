@@ -14,9 +14,9 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 # -----------------------------------------------------------------------------
-/logs/
-/out/
-/work/
+logs/
+out/
+work/
 # Next line commented out, because test/webapp-virtual-library and
 # test/webapp-virtual-webapp use it:
 # target
